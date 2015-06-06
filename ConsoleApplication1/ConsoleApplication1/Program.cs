@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
+            Console.WriteLine("HelloWorld");
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
